@@ -1,2 +1,3 @@
 second commit
 third commit in feature going to be merged (fast forward)
+fourth commit on master
